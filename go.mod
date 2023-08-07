@@ -1,4 +1,4 @@
-module github.com/bjaus/replace
+module github.com/bjaus/find-replace
 
 go 1.20
 
